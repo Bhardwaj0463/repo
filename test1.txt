@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D414-24C7
+
+ Directory of C:\Users\Bhardwaj\OneDrive\Desktop\My Project
+
+19-09-2022  00:08    <DIR>          .
+19-09-2022  00:08    <DIR>          ..
+19-09-2022  00:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  120,481,951,744 bytes free
